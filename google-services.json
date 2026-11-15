@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66348083608",
+    "project_id": "uvi-talk",
+    "storage_bucket": "uvi-talk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66348083608:android:0a90e2ae48f657d54da3ed",
+        "android_client_info": {
+          "package_name": "com.yuvitalk.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2z10_G7RNdP4Bh8bApwFJ3FSHM0wVtsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
